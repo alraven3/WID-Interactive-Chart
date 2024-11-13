@@ -235,6 +235,19 @@
         path {
           transition: opacity 0.3s ease, stroke 0.3s ease;
         }
+
+        @font-face {
+          font-family: 'Ruda';
+          src: url('/assets/Ruda-VariableFont_wght.ttf') format('ttf');
+          font-weight: normal;
+          font-style: normal;
+        }
+        @font-face {
+          font-family: 'Rockwell';
+          src: url('/assets/ROCK.ttf') format('ttf');
+          font-weight: normal;
+          font-style: normal;
+        }
     
         /* General style for the chart title */
         .chart-title {
