@@ -19,7 +19,7 @@
         x={position}
         y={axisLength + 20}
         text-anchor="middle"
-        font-size="12"
+        font-size="13"
       >
         {label}
       </text>
@@ -38,7 +38,7 @@
         x={axisLength - 15}
         y={position}
         text-anchor="end"
-        font-size="12"
+        font-size="13"
       >
         {label}
       </text>
