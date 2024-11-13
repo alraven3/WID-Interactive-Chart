@@ -241,14 +241,12 @@
           src: url('./assets/Ruda-VariableFont_wght.ttf') format('ttf');
           font-weight: normal;
           font-style: normal;
-          font-display: swap;
         }
         @font-face {
           font-family: 'Rockwell';
           src: url('./assets/ROCK.ttf') format('ttf');
           font-weight: normal;
           font-style: normal;
-          font-display: swap;
         }
     
         /* General style for the chart title */
