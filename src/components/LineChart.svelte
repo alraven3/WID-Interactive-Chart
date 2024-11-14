@@ -271,19 +271,19 @@
         /* Responsive title */
         @media (max-width: 1200px) {
             .chart-title {
-            font-size: 20px; /* Smaller font size for medium screens */
+            font-size: 24px; /* Smaller font size for medium screens */
             }
         }
     
         @media (max-width: 768px) {
             .chart-title {
-            font-size: 18px;  /* Smaller font size for small screens */
+            font-size: 20px;  /* Smaller font size for small screens */
             }
         }
     
         @media (max-width: 480px) {
             .chart-title {
-            font-size: 15px;  /* Even smaller font size for extra small screens */
+            font-size: 18px;  /* Even smaller font size for extra small screens */
             }
         }
         
