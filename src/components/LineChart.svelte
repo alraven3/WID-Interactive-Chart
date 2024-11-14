@@ -103,7 +103,7 @@
         x={chartWidth / 2} 
         y={paddings.top / 2} 
         text-anchor="middle" 
-        font-size="clamp(16px, 3vw, 24px)"  
+        font-size="clamp(16px, 3vw, 28px)"  
         font-weight="bold"
         class="chart-title"
         >
