@@ -229,6 +229,7 @@
           border-radius: 3px;
           pointer-events: none;
           font-size: 14px;
+          font-family: "Ruda";
         }
       
         /* Optional smooth transition for opacity and stroke */
